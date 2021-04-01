@@ -18,6 +18,7 @@
 ## SUM, MAX, MIN
   * [최댓값 구하기](https://github.com/Youngprize33/Programmers-SQL/blob/1a4b6a097d121482f6f6c771c5022ae89f80126d/SUM,%20MAX,%20MIN/1.%20%EC%B5%9C%EB%8C%93%EA%B0%92%20%EA%B5%AC%ED%95%98%EA%B8%B0.md)
   * [최솟값 구하기](https://github.com/Youngprize33/Programmers-SQL/blob/b8c6ec364e35fb0837880711c7aa772b50a1dfb5/SUM,%20MAX,%20MIN/2.%20%EC%B5%9C%EC%86%9F%EA%B0%92%20%EA%B5%AC%ED%95%98%EA%B8%B0.md)
+  * [동물 수 구하기](https://github.com/Youngprize33/Programmers-SQL/blob/29541c9bb830ab3287633741aab30e330022de48/SUM,%20MAX,%20MIN/3.%20%EB%8F%99%EB%AC%BC%20%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.md)
 
 -------------------------
 ## GROUP BY
