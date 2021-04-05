@@ -24,6 +24,7 @@
 -------------------------
 ## GROUP BY
   * [개와 고양이는 몇 마리 있을까](https://github.com/Youngprize33/Programmers-SQL/blob/425f00cd897f89d2ec8124317c7686e82ec38df7/GROUP%20BY/1.%20%EA%B3%A0%EC%96%91%EC%9D%B4%EC%99%80%20%EA%B0%9C%EB%8A%94%20%EB%AA%87%20%EB%A7%88%EB%A6%AC%20%EC%9E%88%EC%9D%84%EA%B9%8C.md)
+  * [동명 동물 수 찾기](https://github.com/Youngprize33/Programmers-SQL/blob/d8655571ca41d85699a07687bb052d91cef3eb5b/GROUP%20BY/2.%20%EB%8F%99%EB%AA%85%20%EB%8F%99%EB%AC%BC%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.md)
 
 
 --------------------------
